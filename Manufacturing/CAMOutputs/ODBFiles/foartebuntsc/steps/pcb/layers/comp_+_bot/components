@@ -1,0 +1,12 @@
+#
+UNITS=MM
+ID=2356
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+#
+# CMP 0
+CMP 17 52.07 133.35 180 N R1_USB CPF0201D7K68C1_0201 ;0=1;ID=2355
+TOP 0 52.07 133.075 0 N 3 111 1
+TOP 1 52.07 133.625 0 N 72 1 2
